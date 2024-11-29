@@ -1,0 +1,19 @@
+/brain_tumor_segmentation
+│
+├── model/
+│   ├── unet_model.py          # U-Net model implementation
+│   ├── train_model.py         # Script to train the model
+│   └── utils.py               # Utility functions (data loading, preprocessing)
+│
+├── data/
+│   ├── train_images/          # Training images (MRI scans)
+│   ├── train_masks/           # Corresponding tumor masks
+│   └── val_images/            # Validation images (MRI scans)
+│   └── val_masks/             # Corresponding tumor masks
+│
+├── notebooks/
+│   ├── data_preprocessing.ipynb  # Data preprocessing notebook
+│   ├── model_evaluation.ipynb   # Model evaluation and performance visualization
+│
+├── requirements.txt           # Dependencies
+└── README.md                  # Project overview and documentation
