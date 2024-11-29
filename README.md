@@ -6,6 +6,8 @@ Project Overview
 Key Objectives:
 The goal of this project is to develop a deep learning model that can accurately segment brain tumors from MRI images using the U-Net architecture. This model can assist medical professionals in diagnosing and analyzing brain tumors more efficiently, reducing the manual effort required to process and identify tumors in medical scans.
 
+Dataset: The dataset used for this project is named Brain TS, and it was obtained from Kaggle.
+
 Results and Insights:
 
 Achieved Performance Metrics:
