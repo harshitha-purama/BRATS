@@ -49,3 +49,11 @@ Dice loss :
 
 
 
+Model Speed:
+
+Training Time per Epoch: ~15 minutes (depending on hardware)
+Inference Speed: Fast inference time for each image, making it suitable for real-time applications in clinical settings.
+
+Memory Efficiency:
+
+The model is optimized for memory usage, with batch sizes that allow it to run on typical GPU hardware (e.g., NVIDIA 1080 Ti).

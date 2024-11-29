@@ -1,0 +1,9 @@
+# clone the repository:
+git clone https://github.com/yourusername/brain_tumor_segmentation.git
+cd brain_tumor_segmentation
+
+# install required dependencies:
+pip install -r requirements.txt
+# Run the model training
+python model/train_model.py
+
