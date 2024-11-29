@@ -19,12 +19,6 @@ The motivation behind this work is to leverage deep learning for medical image s
 
 
 
-Memory usage :
-
-
-<img width="242" alt="Screenshot 2024-11-29 at 9 37 34 pm" src="https://github.com/user-attachments/assets/ab7c32c2-1010-4478-8960-aeb5a84c447e">
-
-
 Training the Model:
 
 
